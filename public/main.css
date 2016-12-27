@@ -33,6 +33,10 @@ body {
     margin: 0 100px 100px 100px;
 }
 
+.i-frame-wrapper {
+    margin: 100px;
+}
+
 footer {
     position: fixed;
     bottom: 0;
